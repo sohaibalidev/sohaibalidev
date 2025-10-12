@@ -65,12 +65,6 @@ Streamlined form submission and data processing system with efficient data echoi
 
 I specialize in creating solutions that balance technical excellence with practical business needs. My approach emphasizes secure coding practices, scalable architecture, and comprehensive deployment strategies to deliver production-ready applications.
 
-**Current Learning Focus:**
-- Advanced deployment and hosting optimization
-- CI/CD automation and server management
-- SQL and relational database design
-- Full-stack performance optimization
-
 ---
 
 ### Professional Connections
