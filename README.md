@@ -23,13 +23,12 @@ Full-Stack Developer with a strong foundation in modern web technologies, specia
 - Nodemailer for transactional and verification emails
 
 **Database**
-- MongoDB (native driver)
+- MongoDB (native driver & Mongoose)
 - MySQL (relational database experience)
 
 **DevOps**
 - CI/CD pipeline integration
 - Deployment automation and cloud hosting
-- SSL/SSH setup and domain management
 
 **Tools**
 - Git & GitHub for version control
