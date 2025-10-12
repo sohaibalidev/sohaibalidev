@@ -5,76 +5,69 @@
 
 ### Professional Summary
 
-Full-Stack Developer specializing in modern web technologies with expertise in building secure, scalable applications. Currently expanding knowledge in backend systems, deployment automation, and production optimization while maintaining a strong focus on clean architecture and industry best practices.
+Full-Stack Developer with a strong foundation in modern web technologies, specializing in secure, scalable, and maintainable applications. Currently pursuing a Bachelor's in Computer Science while focusing on backend systems, deployment automation, and production optimization.
 
-**Technical Focus:** Node.js, Express, MongoDB, React (Vite), RESTful APIs, CI/CD pipelines
+**Core Expertise:** Node.js, Express, MongoDB, React (Vite), RESTful APIs, CI/CD, and cloud deployment
 
 ---
 
 ### Technical Stack
 
-**Frontend Development**
-- React with Vite
-- Context API for state management
-- React Router for navigation
-- Vanilla CSS for styling
+**Frontend**
+- React (Vite), Context API, React Router
+- Clean UI architecture with vanilla CSS
 
-**Backend Development**
-- Node.js and Express.js
-- RESTful API design
-- Authentication systems (JWT, bcrypt, crypto, magic link, OTP)
-- Nodemailer for email services
+**Backend**
+- Node.js & Express.js (modular REST APIs)
+- Authentication with JWT, bcrypt, crypto, OTP
+- Nodemailer for transactional and verification emails
 
-**Database Management**
+**Database**
 - MongoDB (native driver)
-- MySQL for relational database experience
+- MySQL (relational database experience)
 
-**DevOps & Deployment**
-- CI/CD pipeline implementation
-- Cloud deployment and hosting management
-- SSL/SSH configuration
-- Domain management and server maintenance
+**DevOps**
+- CI/CD pipeline integration
+- Deployment automation and cloud hosting
+- SSL/SSH setup and domain management
 
-**Development Tools**
-- Git and GitHub for version control
+**Tools**
+- Git & GitHub for version control
 - Postman for API testing
-- Cloudinary for media management
+- Cloudinary for asset management
 
 ---
 
-### Project Portfolio
+### Key Projects
 
-#### Zeevno - ECommerce Platform
-Full-stack eCommerce solution for small businesses featuring admin dashboard, order tracking, product management, and email support. Built with modular architecture and production-ready deployment.
+#### **Zeevno – E-Commerce Platform**
+Full-stack eCommerce platform for small businesses with admin dashboard, order tracking, and email-based authentication.  
+*Stack:* Node.js, Express, MongoDB, React, JWT, Nodemailer
 
-*Technologies: Node.js, Express, MongoDB, React, JWT Authentication*
+#### **Chyloo – Social Media Platform**
+Modern social platform inspired by Facebook and Instagram, designed for scalability and seamless performance.  
+*Stack:* React (Vite), Context API, Express.js, MongoDB
 
-#### Chyloo - Social Media Platform
-Modern social media application inspired by leading platforms, designed with scalable architecture and responsive interface.
-
-*Technologies: React (Vite), Context API, Express.js, MongoDB*
-
-#### FormEcho - Data Management Platform
-Streamlined form submission and data processing system with efficient data echoing capabilities.
-
-*Technologies: React, Node.js, Express.js*
+#### **FormEcho – Data Management System**
+Lightweight solution for managing and visualizing form submissions with efficient backend processing.  
+*Stack:* React, Node.js, Express.js
 
 ---
 
-### Development Philosophy
+### Development Approach
 
-I specialize in creating solutions that balance technical excellence with practical business needs. My approach emphasizes secure coding practices, scalable architecture, and comprehensive deployment strategies to deliver production-ready applications.
+I focus on writing clean, efficient, and secure code that scales with demand. My work emphasizes architecture, deployment readiness, and maintainability to ensure long-term product success.
 
 ---
 
-### Professional Connections
+### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-000000?style=for-the-badge&logo=firefox)](https://devsohaibali.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Project_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sohaibalidev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://devsohaibali.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohaibalidev)
 
 ---
 
 <p align="center">
-  <em>Building scalable solutions through clean architecture and modern development practices</em>
+  <em>Building scalable solutions through clean architecture and modern engineering practices.</em>
 </p>
