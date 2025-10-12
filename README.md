@@ -46,17 +46,17 @@ I am continuously expanding my expertise in backend systems, API design, CI/CD p
 
 ### Featured Projects
 
-#### [Zeevno](https://github.com/your-sohaibalidev/zeevno)
+#### [Zeevno](https://github.com/sohaibalidev/zeevno)
 A full-stack eCommerce platform designed for small businesses.  
 Includes admin dashboard, product management, authentication, email support, and deployment-ready architecture.  
 *Technologies: Node.js, Express, MongoDB, React, JWT, Nodemailer*
 
-#### [Chyloo](https://github.com/your-sohaibalidev/chyloo)
+#### [Chyloo](https://github.com/sohaibalidev/chyloo)
 A modern social media platform inspired by Facebook and Instagram.  
 Built using React (Vite) for the frontend and Express.js for the backend, designed for scalability and performance.  
 *Technologies: React (Vite), Context API, React Router, Express.js, MongoDB*
 
-#### [FormEcho](https://github.com/your-sohaibalidev/formecho)
+#### [FormEcho](https://github.com/sohaibalidev/formecho)
 A lightweight and efficient platform for form submission and data echoing.  
 *Technologies: React, Node.js, Express.js*
 
