@@ -71,7 +71,7 @@ A lightweight and efficient platform for form submission and data echoing.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?sohaibalidev=sohaibalidev&show_icons=true&theme=default" alt="Sohaib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohaibalidev&show_icons=true&theme=default" alt="Sohaib's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibalidev&theme=default" alt="GitHub Streak" />
 </p>
