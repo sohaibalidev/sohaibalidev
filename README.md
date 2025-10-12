@@ -71,9 +71,9 @@ A lightweight and efficient platform for form submission and data echoing.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?sohaibalidev=your-sohaibalidev&show_icons=true&theme=default" alt="Sohaib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?sohaibalidev=sohaibalidev&show_icons=true&theme=default" alt="Sohaib's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-sohaibalidev&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibalidev&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ I am open to collaboration, freelance opportunities, and full-stack development 
 Feel free to connect through the links below.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://https://devsohaibali.netlify.app/)
 
 ---
 
