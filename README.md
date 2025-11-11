@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Sohaib Ali</h1>
+<h1 align="center">Sohaib Ali</h1>
 <h3 align="center">Full-Stack Developer | Node.js | React | MongoDB</h3>
 
 ---
